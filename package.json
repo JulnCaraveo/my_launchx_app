@@ -1,0 +1,23 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulnCaraveo/my_launchx_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulnCaraveo/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/JulnCaraveo/my_launchx_app#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
